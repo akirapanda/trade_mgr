@@ -1,0 +1,12 @@
+2013-01-12 20:48:10,669 [qtp1884680382-32] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 42102, SQLState: 42S02
+2013-01-12 20:48:10,669 [qtp1884680382-32] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Table "S_USER" not found; SQL statement:
+select user0_.id as id1_, user0_.login_name as login2_1_, user0_.name as name1_, user0_.password as password1_, user0_.register_date as register5_1_, user0_.roles as roles1_, user0_.salt as salt1_ from s_user user0_ where user0_.login_name=? limit ? [42102-170]
+2013-01-12 20:50:44,920 [qtp1884680382-30] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 42102, SQLState: 42S02
+2013-01-12 20:50:44,920 [qtp1884680382-30] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Table "S_USER" not found; SQL statement:
+select user0_.id as id1_, user0_.login_name as login2_1_, user0_.name as name1_, user0_.password as password1_, user0_.register_date as register5_1_, user0_.roles as roles1_, user0_.salt as salt1_ from s_user user0_ where user0_.login_name=? limit ? [42102-170]
+2013-01-12 20:53:17,030 [qtp1884680382-30] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 42102, SQLState: 42S02
+2013-01-12 20:53:17,030 [qtp1884680382-30] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Table "S_USER" not found; SQL statement:
+select user0_.id as id1_, user0_.login_name as login2_1_, user0_.name as name1_, user0_.password as password1_, user0_.register_date as register5_1_, user0_.roles as roles1_, user0_.salt as salt1_ from s_user user0_ where user0_.login_name=? limit ? [42102-170]
+2013-01-12 20:53:30,687 [qtp1884680382-30] WARN  [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - SQL Error: 42102, SQLState: 42S02
+2013-01-12 20:53:30,687 [qtp1884680382-30] ERROR [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] - Table "S_USER" not found; SQL statement:
+select user0_.id as id1_, user0_.login_name as login2_1_, user0_.name as name1_, user0_.password as password1_, user0_.register_date as register5_1_, user0_.roles as roles1_, user0_.salt as salt1_ from s_user user0_ where user0_.login_name=? limit ? [42102-170]

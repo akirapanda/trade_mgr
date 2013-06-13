@@ -1,0 +1,15 @@
+org\panda\trade\functional\BaseFunctionalTestCase.class
+org\panda\trade\service\account\AccountServiceTest.class
+org\panda\trade\repository\JpaMappingTest.class
+org\panda\trade\data\TaskData.class
+org\panda\trade\functional\gui\RegisterFT.class
+org\panda\trade\functional\rest\TaskRestFT$TaskList.class
+org\panda\trade\functional\gui\TaskGuiFT.class
+org\panda\trade\data\UserData.class
+org\panda\trade\functional\gui\UserAdminFT.class
+org\panda\trade\functional\rest\TaskRestFT.class
+org\panda\trade\functional\QuickStartServer.class
+org\panda\trade\functional\gui\ProfileFT.class
+org\panda\trade\functional\gui\SecurityFT.class
+org\panda\trade\repository\TaskDaoTest.class
+org\panda\trade\functional\BaseSeleniumTestCase.class

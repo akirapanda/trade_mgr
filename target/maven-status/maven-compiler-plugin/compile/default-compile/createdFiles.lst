@@ -1,0 +1,16 @@
+org\panda\trade\entity\Task.class
+org\panda\trade\web\task\TaskController.class
+org\panda\trade\web\account\LoginController.class
+org\panda\trade\service\task\TaskService.class
+org\panda\trade\service\ServiceException.class
+org\panda\trade\entity\User.class
+org\panda\trade\web\account\RegisterController.class
+org\panda\trade\web\account\ProfileController.class
+org\panda\trade\rest\TaskRestController.class
+org\panda\trade\service\account\AccountService.class
+org\panda\trade\entity\IdEntity.class
+org\panda\trade\repository\TaskDao.class
+org\panda\trade\service\account\ShiroDbRealm.class
+org\panda\trade\web\account\UserAdminController.class
+org\panda\trade\service\account\ShiroDbRealm$ShiroUser.class
+org\panda\trade\repository\UserDao.class

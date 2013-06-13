@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfa:data xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"
+><topmostSubform
+><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>0</CheckBox1><CheckBox1
+>1</CheckBox1><CheckBox1
+>0</CheckBox1><DateTimeField1
+>2010-11-16</DateTimeField1><TextField1
+>Hello Java</TextField1><TextField1
+>HONGKONG HUAXIN PETROLEUM LIMITED28/F GUANGDONG FINANCE BLDG 88 CONNAUGHT ROAD WEST,SHEUNG WAN, HONG KONG</TextField1><DateTimeField2
+>2010-11-15</DateTimeField2><TextField1
+>USD1, 315,600.00</TextField1><TextField1
+>HSBC, HK</TextField1><TextField1
+/><TextField1
+>90 </TextField1><TextField1
+/><TextField1
+/><TextField1
+/><TextField1
+> COMMODITY: PURIFIED TEREPHTHALIC ACID (PTA)    QUANTITY: 1012.00MTS,  UNIT PRICE: USD1300/MT AMOUNT: USD1,315,600.00  CFR ZHANGJIAGANG, CHINA  PACKING: 1.10MT/BAG</TextField1><TextField1
+/><TextField1
+/><TextField1
+/><TextField1
+>18</TextField1><TextField1
+/><TextField1
+/><TextField1
+/><TextField1
+>0086-21-32512971-101</TextField1><TextField1
+>0086-21-32512962</TextField1><TextField1
+>JANE</TextField1><TextField1
+>ZHANGJIAGANG, CHINA</TextField1><TextField1
+>CERTIFICATE OF ORIGIN IN 3 ORIGINALS ISSUED BY BENEFICIARY. CERTIFICATE OF QUANTITY/WEIGHT IN 3</TextField1><TextField2
+>ANY PORT IN SOUTH KORE</TextField2><DateTimeField1
+>2010-12-03</DateTimeField1></topmostSubform></xfa:data>
