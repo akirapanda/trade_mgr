@@ -15,10 +15,8 @@
 				 height: 300,
 				 width: 350,
 				 modal: true});
-
-
 			
-			$( "#dialog-form" ).dialog( "open" );			
+			$( "#dialog-form" ).dialog( "close" );			
 			/*判断当前的Action如果是View 全部UI*/
 			if('${action}'=='view'){
 				$("input").attr("disabled",true);
@@ -42,33 +40,33 @@
 				      pickTime: false
 				    });
 				}
-
+				$("#buy_name").typeahead({
+					source:getCompanyListSource
+				});
+				
+				$("#sell_name").typeahead({
+					source:getCompanyListSource
+				});
+          		
 		});
 	</script>
 	</head>
 
 	<body>
-		<div id="dialog-form" title="Create new user">
-			<p class="validateTips">
-				All form fields are required.
-			</p>
+		<div id="dialog-form" title="查询客户公司信息">
 			<form>
 				<fieldset>
 					<label for="name">
-						Name
+						公司名称
 					</label>
-					<input type="text" name="name" id="name"
+					<input type="text" name="name" id="search_compnay_name"
 						class="text ui-widget-content ui-corner-all" />
 					<label for="email">
-						Email
+						地址
 					</label>
-					<input type="text" name="email" id="email" value=""
-						class="text ui-widget-content ui-corner-all" />
-					<label for="password">
-						Password
-					</label>
-					<input type="password" name="password" id="password" value=""
-						class="text ui-widget-content ui-corner-all" />
+					<input type="text" name="email" id="search_compnay_address"
+						value="" class="text ui-widget-content ui-corner-all" />
+					<input id="search_submit" class="btn btn-primary" value="提交" />
 				</fieldset>
 			</form>
 		</div>

@@ -54,7 +54,7 @@
 				source:function (query, process) {
 				jQuery.ajax({  
 			        type:"get",  
-			        url:"${ctx}/manage/company/list",  
+			        url:"${ctx}/company/list",  
 			        dataType:"json",  
 			        success: function aa(root) {  
 						var companys=[];

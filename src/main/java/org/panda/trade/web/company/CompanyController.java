@@ -92,7 +92,6 @@ public class CompanyController {
 	public Map<String, Object> getUserList() {
 		List<Company> list = companyService.findAll();
 		Map<String, Object> modelMap = new HashMap<String, Object>(3);
-		modelMap.put("total", "1");
 		modelMap.put("data", list);
 		modelMap.put("success", "true");
 		System.out.println("##");

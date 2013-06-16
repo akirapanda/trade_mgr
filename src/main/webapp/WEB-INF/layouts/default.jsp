@@ -31,6 +31,7 @@
 <script src="${ctx}/static/bootstrap/2.2.2/js/bootstrap-datepicker.js" type="text/javascript"></script>
 
 <script src="${ctx}/static/jquery-ui-1.10.3/ui/jquery-ui.js" type="text/javascript"></script>
+<script src="${ctx}/static/common/common.js" type="text/javascript"></script>
 
 <sitemesh:head/>
 </head>
